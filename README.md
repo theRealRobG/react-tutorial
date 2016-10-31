@@ -1,8 +1,10 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 # React Tutorial
 
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
+
+I have used this example to convert a small React app into TypeScript,
+so as to see the various difficulties that might arise in doing so.
+I've documented some gotchas I came across below.
 
 ## To use
 Run
